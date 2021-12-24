@@ -1,0 +1,11 @@
+﻿  Book.cpp
+c:\users\fannan\source\repos\assignment_1(library)\assignment_1(library)\user.h(5): error C2011: 'User': 'class' type redefinition
+  c:\users\fannan\source\repos\assignment_1(library)\assignment_1(library)\user.h(4): note: see declaration of 'User'
+c:\users\fannan\source\repos\assignment_1(library)\assignment_1(library)\book.cpp(6): error C2027: use of undefined type 'User'
+  c:\users\fannan\source\repos\assignment_1(library)\assignment_1(library)\user.h(4): note: see declaration of 'User'
+c:\users\fannan\source\repos\assignment_1(library)\assignment_1(library)\book.cpp(12): error C2027: use of undefined type 'User'
+  c:\users\fannan\source\repos\assignment_1(library)\assignment_1(library)\user.h(4): note: see declaration of 'User'
+c:\users\fannan\source\repos\assignment_1(library)\assignment_1(library)\book.cpp(21): error C2027: use of undefined type 'User'
+  c:\users\fannan\source\repos\assignment_1(library)\assignment_1(library)\user.h(4): note: see declaration of 'User'
+  Source1.cpp
+  Generating Code...
